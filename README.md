@@ -1,4 +1,4 @@
-# [TNNLS 2025] Bicriteria Policy Optimization for High Accuracy Reinforcement Learning
+# [IEEE TNNLS 2025] Bicriteria Policy Optimization for High Accuracy Reinforcement Learning
 
 A PyTorch implementation of the gradient fusion strategy for Bicriteria Policy Optimization. This approach is specifically designed for optimization problems where two objectives share a common global optimum, such as combining Reinforcement Learning (RL) and Imitation Learning (IL).
 
